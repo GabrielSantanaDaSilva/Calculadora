@@ -16,3 +16,4 @@ C:\Users\gabriel.sasilva4\source\repos\Calculadoraz\Calculadoraz\obj\Debug\net5.
 C:\Users\gabriel.sasilva4\source\repos\Calculadoraz\Calculadoraz\obj\Debug\net5.0-windows\ref\Calculadoraz.dll
 C:\Users\gabriel.sasilva4\source\repos\Calculadoraz\Calculadoraz\obj\Debug\net5.0-windows\Calculadoraz.pdb
 C:\Users\gabriel.sasilva4\source\repos\Calculadoraz\Calculadoraz\obj\Debug\net5.0-windows\Calculadoraz.genruntimeconfig.cache
+C:\Users\gabriel.sasilva4\source\repos\Calculadoraz\Calculadoraz\obj\Debug\net5.0-windows\Calculadoraz.Properties.Resources.resources
